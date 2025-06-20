@@ -10,10 +10,10 @@
 <br>javac --module-path "C:\.\.\project-in-javafx-bingo-game--master\project-in-javafx-bingo-game--master\17.0.9\javafx-sdk-17.0.9\lib" --add-modules javafx.controls,javafx.fxml application/Main.java
 <br>java --module-path "C:\.\.\project-in-javafx-bingo-game--master\17.0.9\javafx-sdk-17.0.9\lib" --add-modules javafx.controls,javafx.fxml application.Main 5 2
 ![](picture/bingo2.PNG)
-*cheating:
+* cheating:
 ![](picture/cheat.PNG)
-*finsh game:
+* finsh game:
 ![](picture/finsh.PNG)
-*winner:
+* winner:
 ![](picture/winner.PNG)
 
