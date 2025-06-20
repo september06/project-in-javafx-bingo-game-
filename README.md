@@ -5,10 +5,10 @@
 *🔗 https://gluonhq.com/products/javafx/
 *(Scroll down to "Previous Releases" → JavaFX 17.0.9 SDK)
 
-*Extract it (e.g., to C:\javafx-sdk-17.0.9).
+* Extract it (e.g., to C:\javafx-sdk-17.0.9).
 
-*Compile & Run with the correct JavaFX version:
-*javac --module-path "C:\.\.\project-in-javafx-bingo-game--master\project-in-javafx-bingo-game--master\17.0.9\javafx-sdk-17.0.9\lib" --add-modules javafx.controls,javafx.fxml application/Main.java
-*java --module-path "C:\.\.\project-in-javafx-bingo-game--master\17.0.9\javafx-sdk-17.0.9\lib" --add-modules javafx.controls,javafx.fxml application.Main 5 2
-![](image/picture/bingo.PNG)
+* Compile & Run with the correct JavaFX version:
+* javac --module-path "C:\.\.\project-in-javafx-bingo-game--master\project-in-javafx-bingo-game--master\17.0.9\javafx-sdk-17.0.9\lib" --add-modules javafx.controls,javafx.fxml application/Main.java
+* java --module-path "C:\.\.\project-in-javafx-bingo-game--master\17.0.9\javafx-sdk-17.0.9\lib" --add-modules javafx.controls,javafx.fxml application.Main 5 2
+![](picture/bingo2.PNG)
 
